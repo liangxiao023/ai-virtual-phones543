@@ -50,6 +50,7 @@ const MDI_PATHS: Record<IconId, string> = {
   diary: mdiBookOpenPageVariant,
   music: mdiMusic,
   reading: mdiBookOpenVariant,
+  congdu: mdiBookOpenPageVariant,
   cocreate: mdiFeather,
   story: mdiMovie,
   game: mdiGamepadVariant,
